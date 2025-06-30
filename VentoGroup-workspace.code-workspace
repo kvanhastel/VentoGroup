@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://azurerepos/ventogroup/Powershell scripts/Powershell scripts"
+		},
+		{
+			"name": "VentoGroup",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
